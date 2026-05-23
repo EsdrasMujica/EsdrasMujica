@@ -74,8 +74,6 @@
 
 <br>
 
-### 🐍 Mi Gusano de Contribuciones
-
 <div align="center">
   <img src="https://github.com/EsdrasMujica/EsdrasMujica/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
 </div>
