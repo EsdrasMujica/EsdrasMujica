@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/EsdrasMujica/EsdrasMujica/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://github.com/EsdrasMujica/EsdrasMujica/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </div>
 
 <br>
