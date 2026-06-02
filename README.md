@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Esdras%20Mujica&fontSize=70&animation=fadeIn&theme=tokyonight&secondaryText=ByteBuilder%20✨&secondaryTextSize=25" alt="Banner Esdras Mujica" />
 </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Developer+-+Cybersecurity+-+SysAdmin" alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=Sobre%20Mí%20🚀&fontSize=20&theme=tokyonight" alt="Título Sobre Mí" />
 </p>
@@ -80,6 +80,12 @@
 
 <br>
 <hr>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=EsdrasMujica&label=Profile+Views&color=6e40c9&style=flat-square)](https://github.com/EsdrasMujica)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-%E2%9C%93-22c55e?style=flat-square&logoColor=white)](mailto:esdrasbarrios182003+opentowork@gmail.com)
+&nbsp;
+[![Location](https://img.shields.io/badge/Canarias-%F0%9F%87%AE%F0%9F%87%A8-005EB8?style=flat-square)](https://github.com/EsdrasMujica)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=🤝%20Conectemos&fontSize=20&theme=tokyonight" alt="Título Contacto" />
