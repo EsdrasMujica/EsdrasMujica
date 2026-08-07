@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Esdras%20Mujica&fontSize=70&animation=fadeIn&theme=tokyonight&secondaryText=ByteBuilder%20✨&secondaryTextSize=25" alt="Banner Esdras Mujica" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Esdras%20Mujica&fontSize=90&animation=fadeIn&theme=tokyonight&secondaryText=ByteBuilder%20✨&secondaryTextSize=30" width="100%" />
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Developer+-+Cybersecurity+-+SysAdmin" alt="Typing SVG" /></a>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=Sobre%20Mí%20🚀&fontSize=20&theme=tokyonight" alt="Título Sobre Mí" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=matrix" width="100%" alt="ASCII profile scan" /></picture>
+</p>
+
+<hr />
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=Sobre%20Mí%20🚀&fontSize=20&theme=tokyonight" width="100%" alt="Título Sobre Mí" />
 </p>
 
 <div align="center">
@@ -24,7 +31,7 @@
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=🛠️%20Mi%20Caja%20de%20Herramientas%20Mágicas&fontSize=20&theme=tokyonight" alt="Título Herramientas" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=🛠️%20Mi%20Caja%20de%20Herramientas%20Mágicas&fontSize=20&theme=tokyonight" width="100%" alt="Título Herramientas" />
 </p>
 
 <div align="left">
@@ -65,36 +72,52 @@
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=📈%20Estadísticas%20y%20Aventuras&fontSize=20&theme=tokyonight" alt="Título Estadísticas" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=📈%20Estadísticas%20y%20Aventuras&fontSize=20&theme=tokyonight" width="100%" alt="Título Estadísticas" />
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/EsdrasMujica/EsdrasMujica/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake" />
+</div>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=EsdrasMujica&theme=aurora&style=jet&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=EsdrasMujica&theme=matrix&style=jet&mode=dark" width="100%" alt="124 contributions in the last year" />
+  </picture>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=🤝%20Conectemos&fontSize=20&theme=tokyonight" width="100%" alt="Título Contacto" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsdrasMujica&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<br>
-
+<p align="center">
+  <a href="https://github.com/EsdrasMujica">
+    <img src="https://komarev.com/ghpvc/?username=EsdrasMujica&label=Profile+Views&color=6e40c9&style=flat-square" alt="Profile Views">
+  </a>
+  &nbsp;
+  <a href="mailto:esdrasbarrios182003+opentowork@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%E2%9C%93-22c55e?style=flat-square&logoColor=white" alt="Open to Work">
+  </a>
+  &nbsp;
+  <a href="https://github.com/EsdrasMujica">
+    <img src="https://img.shields.io/badge/Canarias-%F0%9F%87%AE%F0%9F%87%A8-005EB8?style=flat-square" alt="Location">
+  </a>
+</p>
 <div align="center">
-  <img src="https://github.com/EsdrasMujica/EsdrasMujica/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</div>
-
-<br>
-<hr>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=EsdrasMujica&label=Profile+Views&color=6e40c9&style=flat-square)](https://github.com/EsdrasMujica)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-%E2%9C%93-22c55e?style=flat-square&logoColor=white)](mailto:esdrasbarrios182003+opentowork@gmail.com)
-&nbsp;
-[![Location](https://img.shields.io/badge/Canarias-%F0%9F%87%AE%F0%9F%87%A8-005EB8?style=flat-square)](https://github.com/EsdrasMujica)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=🤝%20Conectemos&fontSize=20&theme=tokyonight" alt="Título Contacto" />
-<br><br>
-
-<a href="mailto:esdrasbarrios182003+github@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/esdrasmujica/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="mailto:esdrasbarrios182003+github@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/esdrasmujica/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
