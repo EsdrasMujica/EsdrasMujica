@@ -5,8 +5,6 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=matrix" width="100%" alt="ASCII profile scan" /></picture>
 </p>
 
-<hr />
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=35&text=Sobre%20Mí%20🚀&fontSize=20&theme=tokyonight" width="100%" alt="Título Sobre Mí" />
 </p>
