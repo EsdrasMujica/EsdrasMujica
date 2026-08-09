@@ -90,6 +90,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/EsdrasMujica/EsdrasMujica/output/game.gif"
+     width="100%" alt="Space shooter generado desde mi gráfico de contribuciones" />
+  </picture>
+</p>
 <br>
 
 <div align="center">
