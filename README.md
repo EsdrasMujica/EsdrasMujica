@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Esdras%20Mujica&fontSize=90&animation=fadeIn&theme=tokyonight&secondaryText=ByteBuilder%20✨&secondaryTextSize=30" width="100%" />
-</p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Developer+-+Cybersecurity+-+SysAdmin" alt="Typing SVG" /></a>
 
 <p align="center">
