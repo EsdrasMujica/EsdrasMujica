@@ -81,13 +81,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=EsdrasMujica&theme=aurora&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=EsdrasMujica&theme=matrix&style=jet&mode=dark" width="100%" alt="124 contributions in the last year" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <img src="https://raw.githubusercontent.com/EsdrasMujica/EsdrasMujica/output/game.gif"
      width="100%" alt="Space shooter generado desde mi gráfico de contribuciones" />
   </picture>
