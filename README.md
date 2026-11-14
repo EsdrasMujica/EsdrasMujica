@@ -2,7 +2,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Developer+-+Cybersecurity+-+SysAdmin" alt="Typing SVG" /></a>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=matrix" width="100%" alt="ASCII profile scan" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="GithubProfile-light.svg" />
+<!--    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=aurora&mode=light" /> -->
+<!--    <img src="https://www.gitskins.com/api/section/system-scan?username=EsdrasMujica&theme=matrix" width="100%" alt="ASCII profile scan" /> -->
+    <img src="GithubProfile-dark.svg" width="100%" alt="ASCII profile scan" />
+  </picture>
 </p>
 
 <p align="center">
